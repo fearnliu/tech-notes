@@ -1,0 +1,9 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "${notename}.canvas/",
+  "defaultWheelBehavior": "pan",
+  "defaultModDragBehavior": "menu",
+  "cardLabelVisibility": "hover"
+}
